@@ -5,3 +5,4 @@ Git is a tool.
 BOE still perfer SVN.
 modified and git add but not git commit
 push to Github.
+Creating a new branch is quick.
